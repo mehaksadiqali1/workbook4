@@ -4,7 +4,7 @@ let myInfo = {
   address: "121 Main Street",
   city: "Brooklyn",
   state: "NY",
-  zipCode: "7272",
+  zipCode: "7273",
 };
 
 function printPerson(myInfo) {
